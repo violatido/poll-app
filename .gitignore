@@ -2,6 +2,11 @@ env
 .vscode 
 .DS_Store
 
-__pycache__
 
 mysite/db.sqlite3
+mysite/mysite/__pycache__/
+mysite/polls/__pycache__/
+mysite/polls/migrations/__pycache__/
+mysite/__pycache__/*
+# __pycache__
+mysite/mysite/__pycache__/settings.cpython-39.pyc
